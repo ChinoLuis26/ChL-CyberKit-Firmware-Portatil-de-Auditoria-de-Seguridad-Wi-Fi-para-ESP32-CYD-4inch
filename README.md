@@ -415,7 +415,7 @@ pio device monitor --baud 115200 --filter colorize
 
 ## Créditos
 
-**Autor:** ChL (Pedro Reza)  
+**Autor:** ChinoLuis (Pedro Rezabala)  
 **Versión:** 1.0 PRO  
 **Fecha:** 2026  
 
@@ -449,7 +449,7 @@ pio device monitor --baud 115200 --filter colorize
 
 ```
 ChL-CyberKit v1.0 PRO
-Copyright (C) 2026  ChL (Pedro Reza)
+Copyright (C) 2026  ChL (Pedro Rezabala)
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
